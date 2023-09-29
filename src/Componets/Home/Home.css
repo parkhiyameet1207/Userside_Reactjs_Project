@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+.card{
+    width: 20%;
+    height: 200px;
+    background-image: url('https://rukminim1.flixcart.com/fk-p-flap/278/278/image/59d58e5ce057f2e6.jpg?q=90');
+    background-size: cover;
+    object-fit: cover;
+    background-repeat: no-repeat;
+  
+  border-radius: 0 !important;
+/* backface-visibility: hidden; */
+/* z-index: -99999999999999; */
+}
+
+
+.main{
+
+    padding: 0 !important;
+}
+.card .btn{
+    width: 120px;
+    height: 30px;
+    border: 0;
+    border-radius: 3px;
+
+    padding: 2px;
+}
+
+.card1{
+    width: 20%;
+    height: 200px;
+}
+.card1 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+

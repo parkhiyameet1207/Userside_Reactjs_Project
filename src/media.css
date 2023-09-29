@@ -1,0 +1,56 @@
+
+
+@media (max-width: 575px) { 
+    .logo-box{
+        width: 100px;
+    }
+    .logo-box .logo{
+        width: 100%;
+    }
+    .login button{
+        width: 80px;
+    }
+    .card{
+        width: 100%;
+        height: 150px;
+    }
+    .product-card{
+        width: 100%;
+
+    }
+    .button1{
+        width: 100px;
+    }
+    .product-links{
+        width: 100px;
+    }
+    .menu{
+        display: none;
+    }
+
+}
+@media (min-width: 576px) and (max-width: 767px) { 
+   
+
+    
+
+}
+
+@media (min-width: 768px) and (max-width: 991px){ 
+
+ }
+
+
+@media (min-width: 992px) and (max-width: 1199px) { 
+
+ }
+
+
+@media (min-width: 1200px) and (max-width: 1399px){  
+
+}
+
+
+@media (max-width: 1400px){ 
+
+ }
